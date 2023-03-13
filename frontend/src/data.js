@@ -1,3 +1,5 @@
+// define data as an object and prodcuts as an array 
+
 const data = {
     products: [
         {
